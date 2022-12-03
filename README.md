@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Solution URL: [https://github.com/jmcconde/intro-section-with-dropdown-navigation-main]
+- Live Site URL: [https://dashing-kringle-9a5749.netlify.app/]
 
 ## My process
 
@@ -45,7 +45,10 @@ Users should be able to:
 
 ### What I learned
 
-
+Improved my skills on CSS Flexbox, Grid, hover states and transitions.
+Learned how to make a navbar, hamburger menu and dropdown navigation.
+Used a mobile first-approach.
+Vanilla JavaScript was used to make the page interactive.
 
 ## Author
 
