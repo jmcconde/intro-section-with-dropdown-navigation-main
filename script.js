@@ -60,6 +60,8 @@ window.onresize = () => {
             dropdownHeaders[i].removeEventListener('mouseleave', closeDropdownIcon);
             navLinks[i].removeEventListener('mouseenter', openDropdownIcon);
             navLinks[i].removeEventListener('mouseleave', closeDropdownIcon);
+            dropdownContents[i].removeEventListener('mouseenter', openDropdownIcon);
+            dropdownContents[i].removeEventListener('mouseleave', closeDropdownIcon);
         }
     }
 };
